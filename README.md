@@ -19,6 +19,6 @@ The dataset contains **208 SONAR signal samples** with **60 frequency features**
 
 
 
-**File:** `sonar_data.csv` 
+**File:** `Sonar data.csv` 
 ---
 
