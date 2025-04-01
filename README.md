@@ -17,7 +17,7 @@ File: `Sonar data.csv`
 - Model training (Logistic Regression)
 - Performance evaluation (accuracy, confusion matrix,classification report)
 
-## 📊 Results
+## Results
 - **Final Model Accuracy:** 76.19%  
 - **Dataset Size:** 208 samples (60 features)  
 - **Validation Method:** 90-10 train-test split  
