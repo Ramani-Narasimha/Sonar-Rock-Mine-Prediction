@@ -9,7 +9,9 @@ This project trains a **machine learning model** to analyze SONAR signals and cl
 
  Dataset
 The dataset contains 208 SONAR signal samples with 60 frequency features and a binary label (`R` for Rock or `M` for Mine)
+
 File: `Sonar data.csv` 
+
 ---
 **Key Features:**
 - Data preprocessing
